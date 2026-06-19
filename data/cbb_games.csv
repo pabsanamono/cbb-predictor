@@ -1,0 +1,251 @@
+fecha,equipo_local,equipo_visitante,puntos_local,puntos_visitante,gano_local
+2024-11-04,Kentucky,Duke,77,72,1
+2024-11-06,Gonzaga,Arizona,77,76,1
+2024-11-07,Houston,Michigan St,73,66,1
+2024-11-08,UCLA,Michigan St,71,77,0
+2024-11-09,Gonzaga,Houston,83,77,1
+2024-11-11,Auburn,Baylor,87,83,1
+2024-11-13,Michigan St,Arizona,69,68,1
+2024-11-14,Purdue,Texas,78,68,1
+2024-11-15,Michigan St,Kentucky,66,62,1
+2024-11-17,UCLA,Baylor,65,74,0
+2024-11-19,Purdue,Tennessee,77,82,0
+2024-11-20,Villanova,North Carolina,79,76,1
+2024-11-21,Marquette,Houston,78,69,1
+2024-11-23,Baylor,Michigan St,58,62,0
+2024-11-24,Marquette,Kansas,71,63,1
+2024-11-26,Texas,Arizona,83,74,1
+2024-11-28,Duke,Tennessee,74,58,1
+2024-11-30,Tennessee,Kansas,78,79,0
+2024-12-02,Baylor,Marquette,79,61,1
+2024-12-04,Houston,Gonzaga,83,74,1
+2024-12-05,Tennessee,Purdue,94,69,1
+2024-12-06,Purdue,Duke,82,88,0
+2024-12-07,North Carolina,Gonzaga,69,64,1
+2024-12-09,Texas,Kentucky,80,62,1
+2024-12-10,Michigan St,Purdue,78,69,1
+2024-12-11,Purdue,Arizona,74,72,1
+2024-12-12,Tennessee,Kansas,62,75,0
+2024-12-14,Marquette,Kentucky,73,62,1
+2024-12-15,Michigan St,Houston,65,83,0
+2024-12-17,Kentucky,Duke,73,77,0
+2024-12-18,Auburn,Gonzaga,68,86,0
+2024-12-19,Kentucky,Duke,73,69,1
+2024-12-20,UCLA,Houston,69,75,0
+2024-12-21,Duke,Houston,74,87,0
+2024-12-23,Marquette,Gonzaga,77,81,0
+2024-12-24,Tennessee,Duke,84,76,1
+2024-12-25,Gonzaga,Texas,80,74,1
+2024-12-26,Purdue,Arizona,63,68,0
+2024-12-28,Tennessee,Auburn,71,82,0
+2024-12-29,Arizona,Purdue,74,85,0
+2024-12-31,Kentucky,Kansas,71,76,0
+2025-01-01,Purdue,UCLA,71,77,0
+2025-01-03,Duke,Tennessee,77,56,1
+2025-01-04,Baylor,Kansas,84,70,1
+2025-01-05,Tennessee,Kentucky,64,60,1
+2025-01-06,Gonzaga,Tennessee,79,72,1
+2025-01-08,Baylor,Gonzaga,73,65,1
+2025-01-09,North Carolina,Baylor,78,70,1
+2025-01-10,Arizona,UCLA,90,57,1
+2025-01-11,Purdue,Tennessee,88,74,1
+2025-01-13,North Carolina,Auburn,95,62,1
+2025-01-14,Duke,Gonzaga,86,65,1
+2025-01-16,Purdue,North Carolina,81,82,0
+2025-01-17,Purdue,Kentucky,76,73,1
+2025-01-18,Purdue,Duke,71,72,0
+2025-01-19,Michigan St,Tennessee,63,65,0
+2025-01-20,Kentucky,Auburn,84,67,1
+2025-01-21,Texas,UCLA,67,62,1
+2025-01-22,Houston,North Carolina,78,73,1
+2025-01-24,Houston,UCLA,67,75,0
+2025-01-26,Kentucky,Michigan St,81,60,1
+2025-01-28,Arizona,Baylor,85,73,1
+2025-01-29,Arizona,Houston,73,78,0
+2025-01-31,Tennessee,Purdue,56,75,0
+2025-02-02,UCLA,Tennessee,79,71,1
+2025-02-03,Arizona,Kentucky,87,73,1
+2025-02-05,Gonzaga,Purdue,71,83,0
+2025-02-06,Villanova,Kentucky,83,77,1
+2025-02-07,Texas,Kentucky,78,89,0
+2025-02-08,Kentucky,Purdue,78,77,1
+2025-02-09,Texas,Marquette,82,68,1
+2025-02-10,Baylor,Villanova,74,72,1
+2025-02-12,Purdue,North Carolina,66,80,0
+2025-02-14,Gonzaga,Marquette,83,74,1
+2025-02-15,Texas,UCLA,66,73,0
+2025-02-17,Duke,Texas,77,63,1
+2025-02-18,Villanova,Texas,75,58,1
+2025-02-20,Purdue,Marquette,80,74,1
+2025-02-22,Villanova,Michigan St,78,79,0
+2025-02-23,Villanova,Arizona,68,69,0
+2025-02-24,UCLA,Duke,71,83,0
+2025-02-25,Baylor,Villanova,83,61,1
+2025-02-27,Kansas,UCLA,80,73,1
+2025-02-28,Purdue,Kentucky,81,69,1
+2025-03-01,Houston,Purdue,76,65,1
+2025-03-03,Kentucky,Villanova,85,51,1
+2025-03-04,Villanova,Houston,69,68,1
+2025-03-05,Kentucky,Michigan St,77,53,1
+2025-03-07,Kansas,UCLA,74,71,1
+2025-03-08,Texas,Marquette,59,73,0
+2025-03-09,North Carolina,Houston,76,77,0
+2025-03-11,Marquette,Purdue,58,84,0
+2025-03-12,Baylor,Auburn,57,70,0
+2025-03-13,Duke,Purdue,84,75,1
+2025-03-14,Baylor,Auburn,57,59,0
+2025-03-15,Gonzaga,Kentucky,76,59,1
+2025-03-17,Marquette,Purdue,71,75,0
+2025-03-18,Michigan St,Purdue,71,70,1
+2025-03-20,Auburn,North Carolina,70,73,0
+2025-03-22,UCLA,Kentucky,74,70,1
+2025-03-24,Arizona,Kansas,75,73,1
+2025-03-26,North Carolina,Marquette,75,76,0
+2025-03-28,Marquette,Kansas,72,69,1
+2025-03-29,Kansas,North Carolina,88,65,1
+2025-03-30,Kansas,Gonzaga,80,93,0
+2025-03-31,Texas,Arizona,64,62,1
+2025-04-01,Arizona,Texas,67,63,1
+2025-04-03,Kentucky,Villanova,77,70,1
+2025-04-04,Gonzaga,Marquette,82,64,1
+2025-04-05,Arizona,Michigan St,74,83,0
+2025-04-06,Houston,Marquette,83,72,1
+2025-04-07,Gonzaga,Duke,80,76,1
+2025-04-08,Auburn,Kansas,64,78,0
+2025-04-10,Marquette,Purdue,68,74,0
+2025-04-11,Duke,Kansas,84,81,1
+2025-04-12,Baylor,Arizona,79,75,1
+2025-04-13,UCLA,Arizona,67,75,0
+2025-04-14,Tennessee,UCLA,63,64,0
+2025-04-15,Villanova,Texas,73,68,1
+2025-04-16,Villanova,Texas,48,62,0
+2025-04-17,Kansas,Kentucky,64,72,0
+2025-04-18,Houston,North Carolina,56,69,0
+2025-04-19,Duke,Tennessee,78,70,1
+2025-04-21,Texas,Kansas,81,95,0
+2025-04-23,North Carolina,Purdue,80,66,1
+2025-04-24,Marquette,Kentucky,68,79,0
+2025-04-26,North Carolina,Texas,89,70,1
+2025-04-28,Baylor,Texas,88,64,1
+2025-04-30,Marquette,Texas,72,79,0
+2025-05-02,Villanova,Purdue,86,66,1
+2025-05-03,Purdue,Texas,76,60,1
+2025-05-04,Villanova,Tennessee,79,68,1
+2025-05-05,Tennessee,Texas,91,81,1
+2025-05-06,North Carolina,Houston,94,64,1
+2025-05-07,Tennessee,Arizona,74,55,1
+2025-05-09,Villanova,UCLA,55,61,0
+2025-05-11,Gonzaga,Kentucky,73,61,1
+2025-05-12,Kentucky,Villanova,61,59,1
+2025-05-13,Kansas,UCLA,79,67,1
+2025-05-15,Texas,Arizona,73,72,1
+2025-05-17,Purdue,Marquette,76,65,1
+2025-05-18,Duke,Auburn,84,53,1
+2025-05-19,Michigan St,Arizona,64,84,0
+2025-05-20,Houston,Marquette,77,66,1
+2025-05-21,Arizona,Duke,84,80,1
+2025-05-23,Kansas,Auburn,75,62,1
+2025-05-24,Michigan St,Kentucky,62,60,1
+2025-05-26,North Carolina,Tennessee,90,76,1
+2025-05-27,Michigan St,Marquette,80,81,0
+2025-05-28,North Carolina,Villanova,49,61,0
+2025-05-29,Baylor,Auburn,79,56,1
+2025-05-30,Kentucky,Purdue,88,69,1
+2025-06-01,Villanova,Texas,73,61,1
+2025-06-03,Kentucky,Purdue,68,84,0
+2025-06-05,Michigan St,Kansas,62,61,1
+2025-06-07,Purdue,Tennessee,90,72,1
+2025-06-08,Kentucky,Gonzaga,80,74,1
+2025-06-09,North Carolina,Houston,65,67,0
+2025-06-10,North Carolina,Auburn,69,71,0
+2025-06-11,Kansas,Michigan St,81,71,1
+2025-06-12,Michigan St,Baylor,83,65,1
+2025-06-13,Auburn,Kansas,67,66,1
+2025-06-14,Purdue,Gonzaga,79,65,1
+2025-06-16,Houston,Texas,87,70,1
+2025-06-17,Baylor,Texas,87,64,1
+2025-06-18,Duke,Gonzaga,92,79,1
+2025-06-19,Baylor,Duke,80,82,0
+2025-06-20,Michigan St,Baylor,66,71,0
+2025-06-22,Arizona,Purdue,81,71,1
+2025-06-23,Kentucky,Purdue,78,63,1
+2025-06-24,Gonzaga,Marquette,73,75,0
+2025-06-26,Arizona,Purdue,68,70,0
+2025-06-28,Houston,Marquette,70,71,0
+2025-06-29,Kentucky,UCLA,66,77,0
+2025-06-30,Gonzaga,Kansas,84,76,1
+2025-07-01,Kansas,Arizona,85,65,1
+2025-07-03,Texas,Marquette,73,68,1
+2025-07-04,Houston,Gonzaga,81,75,1
+2025-07-05,Kentucky,Villanova,71,74,0
+2025-07-07,Duke,Arizona,91,68,1
+2025-07-09,Arizona,Auburn,78,66,1
+2025-07-10,Gonzaga,Marquette,81,50,1
+2025-07-11,Texas,Purdue,67,71,0
+2025-07-13,Gonzaga,Auburn,77,66,1
+2025-07-14,Auburn,Tennessee,62,75,0
+2025-07-16,Kentucky,UCLA,70,69,1
+2025-07-17,Purdue,Houston,81,83,0
+2025-07-18,Baylor,North Carolina,73,70,1
+2025-07-19,Purdue,Baylor,63,69,0
+2025-07-21,Kansas,Houston,98,72,1
+2025-07-23,Villanova,Michigan St,58,69,0
+2025-07-24,Auburn,Texas,68,63,1
+2025-07-25,Villanova,Baylor,83,74,1
+2025-07-26,Gonzaga,Baylor,74,70,1
+2025-07-27,North Carolina,Kentucky,81,78,1
+2025-07-29,Gonzaga,Marquette,82,64,1
+2025-07-31,Auburn,Tennessee,77,61,1
+2025-08-02,Tennessee,Gonzaga,60,72,0
+2025-08-04,Kansas,UCLA,72,71,1
+2025-08-05,Gonzaga,Arizona,63,62,1
+2025-08-07,Kansas,Purdue,88,72,1
+2025-08-09,North Carolina,Duke,69,70,0
+2025-08-10,UCLA,Duke,70,85,0
+2025-08-11,Michigan St,UCLA,78,62,1
+2025-08-12,Tennessee,Kansas,66,85,0
+2025-08-14,North Carolina,UCLA,87,74,1
+2025-08-16,Villanova,Gonzaga,55,68,0
+2025-08-17,North Carolina,Tennessee,79,53,1
+2025-08-18,Texas,Baylor,68,78,0
+2025-08-19,Houston,Kentucky,79,80,0
+2025-08-21,Tennessee,Auburn,71,67,1
+2025-08-23,UCLA,Michigan St,67,68,0
+2025-08-24,Arizona,Villanova,71,59,1
+2025-08-25,Houston,UCLA,67,65,1
+2025-08-26,Texas,Gonzaga,79,65,1
+2025-08-28,Marquette,Texas,57,75,0
+2025-08-29,Arizona,Kansas,77,68,1
+2025-08-30,Gonzaga,Auburn,78,77,1
+2025-08-31,Villanova,Baylor,68,76,0
+2025-09-01,Kentucky,Texas,76,63,1
+2025-09-02,North Carolina,Villanova,75,60,1
+2025-09-03,Houston,Texas,84,79,1
+2025-09-04,Purdue,North Carolina,76,71,1
+2025-09-05,Kentucky,Texas,89,63,1
+2025-09-06,North Carolina,Marquette,67,74,0
+2025-09-08,Gonzaga,Baylor,75,69,1
+2025-09-10,Duke,Houston,78,75,1
+2025-09-12,Duke,UCLA,80,59,1
+2025-09-14,Tennessee,Gonzaga,82,74,1
+2025-09-16,Auburn,Michigan St,72,73,0
+2025-09-17,Kansas,North Carolina,85,82,1
+2025-09-18,Villanova,Texas,65,64,1
+2025-09-19,Kansas,Texas,77,59,1
+2025-09-20,Auburn,Marquette,81,70,1
+2025-09-21,Baylor,Villanova,68,76,0
+2025-09-22,Arizona,UCLA,78,79,0
+2025-09-24,Texas,Gonzaga,77,70,1
+2025-09-25,Texas,North Carolina,69,65,1
+2025-09-26,Michigan St,Baylor,77,59,1
+2025-09-28,Auburn,Duke,74,77,0
+2025-09-30,Kansas,Arizona,79,80,0
+2025-10-02,North Carolina,Baylor,70,85,0
+2025-10-03,UCLA,Purdue,64,75,0
+2025-10-05,Auburn,Kentucky,82,71,1
+2025-10-06,North Carolina,Texas,76,57,1
+2025-10-08,Tennessee,Marquette,63,66,0
+2025-10-09,UCLA,Villanova,78,70,1
+2025-10-10,Marquette,Duke,52,85,0
+2025-10-11,Gonzaga,Kansas,66,96,0
+2025-10-12,Gonzaga,Marquette,82,66,1

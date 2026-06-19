@@ -1,0 +1,10 @@
+# Dependencias del proyecto CBB Predictor
+# Instala todo con:  pip install -r requirements.txt
+
+pandas>=2.0          # manejo de tablas de datos (CSV)
+numpy>=1.24          # cálculos numéricos
+scikit-learn>=1.3    # modelo de Machine Learning
+joblib>=1.3          # guardar y cargar el modelo entrenado
+flask>=3.0           # API REST
+streamlit>=1.30      # dashboard web interactivo
+plotly>=5.18         # gráficas para el dashboard
